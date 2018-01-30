@@ -38,6 +38,6 @@ Chr1	9	2
 ```
 
 # References
-* PoPoolation (and .sync files): Kofler et al., 2011 Bioinformatics 27:3435-3436
+* PoPoolation2 (and .sync files): Kofler et al., 2011 Bioinformatics 27:3435-3436
 * BayeScan: Foll and Gaggiotti 2008 Genetics 180: 977-993
 * BayeScEnv: de Villemereuil et al., 2015 Methods in Ecology and Evolution 6:1248-1258
